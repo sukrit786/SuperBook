@@ -14,8 +14,8 @@ Get started with CashChill today and make budgeting fun and hassle-free! 🚀
 ## Installation
 
 ```bash
-# Install NestJS
-$ npm i -g @nestjs/cli [Ravi use this] Step-1
+# Install NestJS [Ravi use this] Step-1
+$ npm i -g @nestjs/cli 
 # watch mode [Ravi use this] Step-2
 $ npm install
 ```
