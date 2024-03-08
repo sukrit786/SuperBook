@@ -1,7 +1,7 @@
 
 ## Description
 
-# Welcome to SuperBook 📚
+# Welcome to CashChill 💸 
 
 🌟 **Your ultimate companion for paisa peace and pyaar!** 🌟
 
