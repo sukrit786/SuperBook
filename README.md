@@ -14,7 +14,8 @@ Get started with CashChill today and make budgeting fun and hassle-free! 🚀
 ## Installation
 
 ```bash
-# watch mode [Ravi use this] Step-1
+# npm i -g @nestjs/cli [Ravi use this] Step-1
+# watch mode [Ravi use this] Step-2
 $ npm install
 ```
 
@@ -24,7 +25,7 @@ $ npm install
 # development
 $ npm run start
 
-# watch mode [Ravi use this] Step-2
+# watch mode [Ravi use this] Step-3
 $ npm run start:dev
 
 # production mode
