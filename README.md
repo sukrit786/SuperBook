@@ -9,7 +9,7 @@
 
 Wave goodbye to stress and welcome smiles as you divide expenses with your crew. With **CashChill**, tracking cash between friends becomes a joy ride, making budgeting a total **dhinchak** experience!
 
-Get started with SuperBook today and make budgeting fun and hassle-free! 🚀 
+Get started with CashChill today and make budgeting fun and hassle-free! 🚀 
 
 ## Installation
 
