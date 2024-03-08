@@ -1,4 +1,12 @@
-import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
+import { Expense } from 'src/expense/entities/expense.entity';
+import {
+  Column,
+  Entity,
+  JoinTable,
+  ManyToMany,
+  OneToMany,
+  PrimaryGeneratedColumn,
+} from 'typeorm';
 
 @Entity()
 export class User {
@@ -17,8 +25,24 @@ export class User {
   @Column({ unique: true })
   phone: string;
 
+  @Column()
+  paidShare: number;
+
+  @Column()
+  owedShare: number;
+
+  @Column()
+  netShare: number;
+
   @Column({ default: () => 'CURRENT_TIMESTAMP' })
-  createdAt: Date;
+  updatedAt: Date;
+
+  @ManyToMany(() => Expense)
+  @JoinTable()
+  expenses: Expense[];
+
+  // @Column({nullable:true})
+  // profile_picture:string;
 
   // @Column({default: new Date()})
   // updatedAt: Date;

@@ -4,6 +4,10 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { ConfigService } from '@nestjs/config';
 import { UserModule } from './user/user.module';
 import { User } from './user/entities/user.entity';
+import { ExpenseModule } from './expense/expense.module';
+import { OpenTransactionsModule } from './open-transactions/open-transactions.module';
+import { Expense } from './expense/entities/expense.entity';
+import { OpenTransaction } from './open-transactions/entities/open-transaction.entity';
 
 @Module({
   imports: [
@@ -18,11 +22,13 @@ import { User } from './user/entities/user.entity';
         username: configService.get('dataBaseSettings.mysql.user'),
         password: configService.get('dataBaseSettings.mysql.password'),
         database: configService.get('dataBaseSettings.mysql.database'),
-        entities: [User],
+        entities: [User, Expense, OpenTransaction],
         synchronize: configService.get('dataBaseSettings.mysql.synchronize'),
       }),
       inject: [ConfigService],
     }),
+    ExpenseModule,
+    OpenTransactionsModule,
   ],
 })
 export class AppModule {}
