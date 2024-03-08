@@ -47,4 +47,5 @@ $ npm run test:cov
 
 ## Stay in touch
 
-- Author - [Sukrit Anand](https://kamilmysliwiec.com)
+- Author - Sukrit Anand 
+- Author - Ravi Jain 
