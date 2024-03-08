@@ -9,6 +9,15 @@ Wave goodbye to stress and welcome smiles as you divide expenses with your crew.
 
 🚀 **Get started with SuperBook today and make budgeting fun and hassle-free!**
 
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+Produces:
+
+#f03c15 #f03c15
+#c5f015 #c5f015
+#1589F0 #1589F0
+
 ## Installation
 
 ```bash
