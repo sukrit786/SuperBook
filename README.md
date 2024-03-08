@@ -1,7 +1,7 @@
 
 ## Description
 
-[SuperBook](https://github.com/nestjs/nest)](https://github.com/sukrit786/SuperBook) Your ultimate companion for paisa peace and pyaar! Wave goodbye to stress and welcome smiles as you divide expenses with your crew. With CashChill, tracking cash between friends becomes a joy ride, making budgeting a total dhinchak experience!.
+[[SuperBook]] Your ultimate companion for paisa peace and pyaar! Wave goodbye to stress and welcome smiles as you divide expenses with your crew. With CashChill, tracking cash between friends becomes a joy ride, making budgeting a total dhinchak experience!.
 
 ## Installation
 
