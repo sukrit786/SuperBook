@@ -5,7 +5,10 @@
 
 🌟 **Your ultimate companion for paisa peace and pyaar!** 🌟
 
-Wave goodbye to stress and welcome smiles as you divide expenses with your crew. With **CashChill**, tracking cash between friends becomes a joy ride, making budgeting a total **dhinchak** experience!
+```diff
+@@ 
+Wave goodbye to stress and welcome smiles as you divide expenses with your crew. With **CashChill**, tracking cash between friends becomes a joy ride, making budgeting a total **dhinchak** experience!@@
+```
 
 @@ text in purple (and bold)@@
 
