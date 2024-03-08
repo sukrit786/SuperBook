@@ -7,11 +7,6 @@
 
 Wave goodbye to stress and welcome smiles as you divide expenses with your crew. With **CashChill**, tracking cash between friends becomes a joy ride, making budgeting a total **dhinchak** experience!
 
-## Color Scheme
-- **Primary:** #ff6f61 (a vibrant shade of red)
-- **Accent:** #4ecdc4 (a refreshing teal)
-- **Background:** #f7fff7 (a soothing off-white)
-
 🚀 **Get started with SuperBook today and make budgeting fun and hassle-free!**
 
 ## Installation
